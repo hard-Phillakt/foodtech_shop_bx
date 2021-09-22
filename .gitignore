@@ -1,0 +1,10 @@
+/bitrix
+/local/templates/.default/images
+/local/templates/.default/vendor
+/local/templates/.default/video
+
+/local/php_interface/vendor
+/local/php_interface/composer.json
+/local/php_interface/composer.lock
+/crack.php
+/upload
